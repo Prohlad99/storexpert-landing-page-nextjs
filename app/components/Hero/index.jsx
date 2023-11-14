@@ -66,7 +66,7 @@ export default function Hero() {
               Making Commerce Better for Everyone
             </h1>
             <p className="text-lg font-body text-black-300 sm:w-4/5">
-              Millions of the world's most successful brands trust WOWNEX to
+              Millions of the world's most successful brands trust STOREXPERT to
               sell, ship and process payments anywhere.
             </p>
           </section>

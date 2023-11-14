@@ -15,7 +15,7 @@ export function PrimaryCard({ primaryContainer, miniModal, fakeProfiles }) {
       >
         <div className="flex items-center justify-between pb-4 md:pb-8 border-b-[0.5px] md:border-b border-[#9C9C9C]">
           <h4 className="text-xs text-primary-100 font-medium sm:text-base lg:text-2xl">
-            WOWNEX Bill Payment
+            STOREXPERT Bill Payment
           </h4>
           <span className="text-primary-100 text-[7px] font-medium bg-[#EBF7F7] w-4 h-4 flex items-center justify-center block rounded-full sm:w-5 sm:h-5 sm:text-[10px] lg:w-8 lg:h-8 lg:text-base">
             3

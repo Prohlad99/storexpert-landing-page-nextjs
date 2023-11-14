@@ -45,7 +45,7 @@ export default function Banner() {
               variants={bannerImage}
               className="w-[375px] sm:w-[550px] md:w-[723px] lg:w-full h-auto object-cover"
               src="/assets/images/shopify-main.png"
-              alt="WOWNEX"
+              alt="STOREXPERT"
             />
           </div>
         </div>

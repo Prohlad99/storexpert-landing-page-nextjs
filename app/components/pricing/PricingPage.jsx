@@ -41,11 +41,11 @@ const PricingPage = () => {
         </div>
         <div>
           <Pricing
-            packageType="WOWNEX"
+            packageType="STOREXPERT"
             usages="FOR SMALL BUSINESSES"
             details="Level up your business with professional reporting and more staff accounts"
             price="65"
-            includeTxtHeading="What's included on wownex"
+            includeTxtHeading="What's included on STOREXPERT"
             txt1="Professional reports"
             txt2="Up to 1,000 inventory locations"
             txt3="5 staff accounts"

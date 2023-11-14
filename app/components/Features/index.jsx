@@ -19,14 +19,14 @@ export default function Features() {
       title: "Self-reported data",
       logo: "/assets/images/feature-2.svg",
       content:
-        "You own your data, store design and business plan, but you are free to use the software platform and resources provided by WOWNEX.",
+        "You own your data, store design and business plan, but you are free to use the software platform and resources provided by STOREXPERT.",
     },
     {
       id: 3,
       title: "Updates are always free",
       logo: "/assets/images/feature-3.svg",
       content:
-        "WOWNEX is so dedicated to keeping its software current that it sends you free updates for a lifetime without charging you anything.",
+        "STOREXPERT is so dedicated to keeping its software current that it sends you free updates for a lifetime without charging you anything.",
     },
     {
       id: 4,

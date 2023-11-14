@@ -35,7 +35,7 @@ export default function Navbar() {
             <img
               className="w-[124px] h-9 lg:w-[250px] lg:h-[100px] object-cover z-20 relative"
               src="/assets/images/storexpert.png"
-              alt="WOWNEX-icon"
+              alt="STOREXPERT-icon"
             />
           </a>
 

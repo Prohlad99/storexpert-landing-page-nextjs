@@ -79,7 +79,7 @@ export default function Footer() {
             <img
               className="w-[125px] md:w-[200px] h-auto "
               src="/assets/images/storexpert.jpg"
-              alt="WOWNEX-footer"
+              alt="STOREXPERT-footer"
             />
           </div>
           <div className="grid grid-cols-2 gap-9 font-body mb-[52px] md:grid-cols-4 lg:col-span-2 lg:mb-0">
@@ -147,7 +147,7 @@ export default function Footer() {
               <h6 className="mb-5 font-medium text-lg text-white">Get Help</h6>
               <div className="flex flex-col gap-4 text-white/70 text-sm">
                 <a className="footer-link" href="#">
-                  WOWNEX Company
+                  STOREXPERT Company
                 </a>
                 <a className="footer-link" href="#">
                   Knowledge Base
